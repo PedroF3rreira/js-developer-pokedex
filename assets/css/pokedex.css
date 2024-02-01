@@ -233,20 +233,15 @@
 }
 #abilities-container {
     border-radius: 0.5rem;
-    background-color: rgba(9, 202, 19, 0.6);
-    border: 5px solid rgba(7, 192, 22, 0.1);
     width: 100%;
     padding: 5px;
-    color: #fff;
     margin-bottom: 5px;
 }
 #status-container {
     border-radius: 0.5rem;
-    background-color: rgba(19, 93, 255, 0.6);
-    border: 5px solid rgba(19, 93, 255, 0.1);
     width: 100%;
     padding: 5px;
-    color: #fff;
+    background-color: rgb(194, 220, 252);
 }
 .text-modal .abilities li {
     list-style: none;
